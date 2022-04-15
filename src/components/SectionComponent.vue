@@ -3,12 +3,12 @@
     <div class="pt-16 pb-80 sm:pt-24 sm:pb-40 lg:pt-40 lg:pb-48">
       <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 sm:static">
         <div class="sm:max-w-lg">
-          <h1 class="text-4xl font font-extrabold tracking-tight text-gray-900 sm:text-6xl">Kemcare</h1>
+          <h1 class="text-4xl text-gray-500 font font-extrabold tracking-tight text-gray-900 sm:text-6xl">Kem care</h1>
           <p class="mt-4 text-xl text-gray-500">Mets a votre disposition des gammes de produits de qualité.</p>
           <a href="#"
-             class="inline-block mt-10 text-center bg-indigo-600 border
+             class="inline-block mt-10 text-center bg-gray-500 border
                border-transparent rounded-md py-3 px-8 font-medium text-white
-               hover:bg-indigo-700 mb-5">Collection complete</a>
+               hover:bg-gray-600 mb-5">Collection complete</a>
         </div>
         <div>
           <div class="mt-10">
