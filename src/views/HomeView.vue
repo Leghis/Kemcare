@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <SectionComponent/>
+    <ProductComposant/>
     <div class="bg-white">
       <div class="max-w-7xl mx-auto px-4 py-24 sm:px-6 lg:px-8">
         <div class="bg-gray-200 rounded-2xl px-6 py-16 sm:p-16">
@@ -36,6 +37,7 @@
 // @ is an alias to /src
 import SectionComponent from "@/components/SectionComponent";
 import recycling from '../assets/img/recycling.svg'
+import ProductComposant from "@/components/ProductComposant";
 export default {
   name: 'HomeView',
   data(){
@@ -61,7 +63,8 @@ export default {
     }
   },
   components: {
-    SectionComponent
+    SectionComponent,
+    ProductComposant
   }
 }
 </script>

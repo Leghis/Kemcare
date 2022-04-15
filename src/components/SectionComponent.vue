@@ -17,7 +17,7 @@
               <div class="absolute transform sm:left-1/2 sm:top-0 sm:translate-x-8 lg:left-1/2 lg:top-1/2 lg:-translate-y-1/2 lg:translate-x-8">
                 <div class="flex items-center space-x-6 lg:space-x-8">
                   <div class="flex-shrink-0 grid grid-cols-1 gap-y-6 lg:gap-y-8">
-                    <div class="w-44 h-64 rounded-lg overflow-hidden sm:opacity-0 lg:opacity-100">
+                    <div class="w-44  h-64 rounded-lg overflow-hidden sm:opacity-0 lg:opacity-100">
                       <img src="https://firebasestorage.googleapis.com/v0/b/kem-care.appspot.com/o/SectionPromoImages%2Fphoto01.JPG?alt=media&token=ad1f3e33-a622-40aa-ad0a-85923a8595b5" alt="" class="w-full h-full object-center object-cover" />
                     </div>
                     <div class="w-44 h-64 rounded-lg overflow-hidden">
